@@ -17,7 +17,7 @@ warnings.filterwarnings('ignore')
 # In[2]:
 
 
-ds=pd.read_csv("F:/Analytics/Learnings/Python/Pratice data/Social_Network_Ads.csv")
+ds=pd.read_csv("F:/X/X/X/X/Social_Network_Ads.csv")
 ds.head(3)
 
 
